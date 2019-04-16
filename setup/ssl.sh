@@ -34,7 +34,7 @@ fi
 
 # Install openssl.
 
-apt_install openssl
+apt install openssl
 
 # Create a directory to store TLS-related things like "SSL" certificates.
 
